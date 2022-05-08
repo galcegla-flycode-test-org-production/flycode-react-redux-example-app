@@ -7,6 +7,5 @@ apps:
   - name: flycode-react-redux-example-app
     path: ""
     text-resources:
-    
       - path: "*.tsx"
         format: react-hardcoded
